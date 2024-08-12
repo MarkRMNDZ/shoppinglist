@@ -1,6 +1,7 @@
-# shoppinglist
+# Shopping List
 
 A new Flutter project.
+This project is about exploring the features and functionalities that flutter and dart provides. It mainly aims to practice the CRUD of flutter.
 
 ## Download Flutter SDK:
 
