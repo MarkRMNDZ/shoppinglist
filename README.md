@@ -4,9 +4,9 @@ A new Flutter project.
 
 ## Check Flutter Installation:
 
-Open a new terminal in VSCode (Ctrl + or Cmd + on macOS).
-Run the command "flutter doctor".
-Follow any instructions to complete the installation of required tools.
+- Open a new terminal in VSCode (Ctrl + or Cmd + on macOS).
+- Run the command "flutter doctor".
+- Follow any instructions to complete the installation of required tools.
 
 ## Getting Started
 
