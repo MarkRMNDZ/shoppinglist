@@ -2,6 +2,18 @@
 
 A new Flutter project.
 
+## Download Flutter SDK:
+
+- Visit the official Flutter website and download the SDK for your operating system (Windows, macOS, or Linux).
+- Extract the downloaded file to your desired location (e.g., C:\flutter for Windows).
+
+## Add Flutter to the PATH:
+
+- Go to Control Panel > System and Security > System > Advanced system settings > Environment Variables.
+- In the User variables section, find Path and click Edit.
+- Click New and add the path to the flutter\bin directory (e.g., C:\flutter\bin).
+- Click OK to save.
+
 ## Check Flutter Installation:
 
 - Open a new terminal in VSCode (Ctrl + or Cmd + on macOS).
